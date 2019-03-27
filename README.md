@@ -1,4 +1,4 @@
-# PHP CURL Multiple Requests Fast
+# Simultaneuos HTTP requests in PHP with cURL
 
 The curl_extension is one of the most important extensions of the PHP especially when we have to interface with external APIs and we must communicate with other applications.
 
