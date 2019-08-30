@@ -47,7 +47,7 @@ private function set_option($x, $y)
 ```
 
 
-###Usage:
+### Usage:
 
 **multiple request:**
 ```php
